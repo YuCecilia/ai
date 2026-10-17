@@ -4,7 +4,7 @@
  */
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "mcp-github-oauth",
+ "name": "wlbycuc-mcp-gateway",
   "main": "src/index.ts",
   "compatibility_date": "2025-03-10",
   "compatibility_flags": ["nodejs_compat"],
@@ -34,7 +34,7 @@
   "kv_namespaces": [
     {
       "binding": "OAUTH_KV",
-      "id": "<Add-KV-ID>"
+     "id": "7b9e82fb2a794bfcb77652f3d242aed5"
     }
   ],
   "ai": {
